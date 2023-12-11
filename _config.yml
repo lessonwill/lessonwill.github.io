@@ -17,4 +17,4 @@ github_username:  lessonwill
 
 # Build settings
 markdown: kramdown
-theme: Time machine
+remote_theme: pages-themes/time-machine@v0.2.0
